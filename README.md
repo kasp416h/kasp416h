@@ -6,3 +6,73 @@
   <img width="40" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title ="websocket" />
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title ="REST" />
 </p>
+
+## Version Control
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Tools
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Web Dev
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## UI/UX
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## JavaScript
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## C#/Java
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Python
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## php
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Mobile Dev
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Database
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## DevOps
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Testing
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Operating system
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
+
+## Microcontrollers
+<p float="left">
+  <img width="40" src="" alt="" title="" />
+</p>
