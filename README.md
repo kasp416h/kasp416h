@@ -34,7 +34,7 @@
 
 ## UI/UX
 <p float="left">
-  <img width="40" src="" alt="" title="" />
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" />
 </p>
 
 ## JavaScript
