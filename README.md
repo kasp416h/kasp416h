@@ -83,7 +83,8 @@
 
 ## DevOps
 <p float="left">
-  <img width="40" src="" alt="" title="" />
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx" />
 </p>
 
 ## Testing
