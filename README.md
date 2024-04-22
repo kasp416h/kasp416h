@@ -102,5 +102,5 @@
 
 ## Microcontrollers
 <p float="left">
-  <img width="40" src="" alt="" title="" />
+  <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino" />
 </p>
