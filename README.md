@@ -94,6 +94,7 @@
 <p float="left">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium" />
   <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer" />
+  <img width="40" src="./assets/DetoxLogo.png" alt="Detox" title="Detox" />
 </p>
 
 ## Operating system
