@@ -72,6 +72,7 @@
 <p float="left">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />
+  <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928" alt="Pygame" title="Pygame" />
 </p>
 
 ## Mobile Dev
