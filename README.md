@@ -97,6 +97,11 @@
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx" />
 </p>
 
+## Analytics
+<p float="left">
+  <img width="40" src="./assets/GAnalytics.svg.png" alt="Google Analytics" title="Google Analytics" />
+</p>
+
 ## Testing
 <p float="left">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium" />
