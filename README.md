@@ -123,4 +123,5 @@
 
 ---
 
+[![kasp416h's GitHub | Stats](https://stats.quira.sh/kasp416h/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kasp416h)
 [![kasp416h's GitHub | Dependencies](https://stats.quira.sh/kasp416h/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kasp416h)
