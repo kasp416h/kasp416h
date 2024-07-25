@@ -121,4 +121,6 @@
   <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino" />
 </p>
 
+---
+
 [![kasp416h's GitHub | Dependencies](https://stats.quira.sh/kasp416h/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kasp416h)
