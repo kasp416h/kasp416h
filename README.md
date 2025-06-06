@@ -19,7 +19,7 @@
 ## 🔨 Tools
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=postman,xcode,pycharm,phpstorm,vscode,visualstudio"
+      src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,postman,xcode,pycharm,phpstorm,vscode,visualstudio"
   />
 </p>
 
