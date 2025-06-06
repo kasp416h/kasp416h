@@ -26,7 +26,7 @@
 ## 🌐 Web Dev
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwindcss,wordpress,swagger,firebase,strapi,jwt,prettier"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwindcss,wordpress,swagger,firebase,stripe,jwt,prettier"
   />
 </p>
 
