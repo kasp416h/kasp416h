@@ -5,7 +5,7 @@
   <img width="48" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title ="HTTP" />
   <img width="48" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title ="REST" />
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=socketio,websocket"
+      src="https://go-skill-icons.vercel.app/api/icons?i=api,socketio,websocket"
   />
 </p>
 
