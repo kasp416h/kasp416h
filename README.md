@@ -77,7 +77,7 @@
 ## 🤿 DevOps
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=bash,docker,githubactions,nginx,caddy,cloudflare,pm2"
+      src="https://go-skill-icons.vercel.app/api/icons?i=bash,docker,githubactions,nginx,caddy,cloudflare,pm2,sentry"
   />
 </p>
 
