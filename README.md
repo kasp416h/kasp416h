@@ -40,7 +40,7 @@
 ## 📜 JavaScript
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,react,typescript,npm,yarn,nodejs,expressjs,redux,jest,nextjs,vite,babel,reactnative,prisma,electron"
+      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,react,typescript,npm,yarn,nodejs,expressjs,redux,jest,nextjs,vite,babel,reactnative,prisma,electron,authjs"
   />
 </p>
 
