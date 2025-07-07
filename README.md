@@ -63,7 +63,7 @@
 <p float="left">
   <img width="48" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS" />
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=android,dart,flutter,expo"
+      src="https://go-skill-icons.vercel.app/api/icons?i=android,dart,flutter,expo,googleplayconsole"
   />
 </p>
 
