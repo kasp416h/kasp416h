@@ -26,7 +26,7 @@
 ## 🌐 Web Dev
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwindcss,wordpress,swagger,firebase,stripe,jwt,prettier"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,less,bootstrap,tailwindcss,wordpress,swagger,firebase,stripe,jwt,prettier"
   />
 </p>
 
@@ -40,7 +40,7 @@
 ## 📜 JavaScript
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,react,typescript,npm,yarn,nodejs,expressjs,redux,jest,testinglibrary,nextjs,vite,babel,reactnative,prisma,electron,authjs,axios,drizzle,jquery,mongoose,arcjet,less"
+      src="https://go-skill-icons.vercel.app/api/icons?i=javascript,react,typescript,npm,yarn,nodejs,expressjs,redux,jest,testinglibrary,nextjs,vite,babel,reactnative,prisma,electron,authjs,axios,drizzle,jquery,mongoose,arcjet"
   />
 </p>
 
