@@ -19,21 +19,21 @@
 ## 🔨 Tools
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,postman,xcode,pycharm,phpstorm,vscode,visualstudio"
+      src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,postman,xcode,pycharm,phpstorm,vscode,visualstudio,arduino,clickup,lucidchart"
   />
 </p>
 
 ## 🌐 Web Dev
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,less,bootstrap,tailwindcss,wordpress,swagger,firebase,stripe,jwt,prettier"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,less,bootstrap,tailwindcss,wordpress,swagger,firebase,stripe,jwt,prettier,eslint,pwa,resend"
   />
 </p>
 
 ## ✨ UI/UX
 <p float="left">
   <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=figma,materialui,shadcn"
+      src="https://go-skill-icons.vercel.app/api/icons?i=figma,materialui,shadcn,chartjs,tanstack"
   />
 </p>
 
